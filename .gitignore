@@ -1,3 +1,5 @@
 node_modules
 .env
 tokens
+.vscode/launch.json
+package-lock.json
